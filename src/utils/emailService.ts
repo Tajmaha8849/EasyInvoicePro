@@ -9,7 +9,7 @@ interface EmailConfig {
 const EMAIL_CONFIG: EmailConfig = {
   serviceId: 'service_acn04dh',
   templateId: 'template_3z5dkes',
-  publicKey: 'j0wTjbf2VLjZUHVWs',
+  publicKey: 'MC3HHsaBoGn2mOuUU',
 };
 
 export const sendInvoiceReminder = async (
